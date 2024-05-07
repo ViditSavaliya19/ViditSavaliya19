@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vidit</h1>
-<h3 align="center">A passionate Android & Flutter developer & trainer from India</h3>
+<h3 align="center">A passionate Android & Flutter developer & trainer from India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viditsavaliya19&label=Profile%20views&color=0e75b6&style=flat" alt="viditsavaliya19" /> </p>
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Android Tech Talker**
 
-- 🔭 **I ❤️ Kotlin**.
+- ✅ **I ❤️ Kotlin**.
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
