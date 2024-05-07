@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viditsavaliya19" alt="viditsavaliya19" /></a> </p>
 
-- 🔭 I’m currently working on **Web**
+- 🔭 I’m currently working on **Android Compose**
 
 - 🌱 I’m currently learning **Flutter Web**
 
@@ -13,8 +13,10 @@
 
 - 📫 How to reach me **vdsavaliya19@gmail.com**
 
-- ⚡ Fun fact **Error Solver**
+- ⚡ Fun fact **Android Tech Talker**
 
+- 🔭 **I ❤️ Kotlin**.
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
